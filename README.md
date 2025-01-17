@@ -1,5 +1,3 @@
-# authenticator-android-compose
-
 # Project Title
 
 Code Authenticator Styles 
