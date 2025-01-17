@@ -5,9 +5,11 @@ Code Authenticator Styles
 ## Description
 A simple project to showcase multiple Code Authenticator Styles to be used in any Android Project. Kotlin and Compose is used to implement it.
 
-!Blue Background             |  White Background
+
+Blue Background             |  White Background
 :-------------------------:|:-------------------------:
 ![](screenshots/blue_background.png)  |  ![](screenshots/white_background.png)
+
 
 ## Getting Started
 
